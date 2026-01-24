@@ -5,3 +5,5 @@ Our plugin that includes Taiwan mobile phone validation, re-ordered checkout fie
 New 
 - check for office delivery
 - remove excess checkout fields
+
+:)
