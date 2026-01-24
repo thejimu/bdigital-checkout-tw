@@ -1,4 +1,4 @@
-# Bdigital Woocommerce Checkout for Taiwan (not maintained)
+# Bdigital Woocommerce Checkout for Taiwan (not maintained) :)
 
 Our plugin that includes Taiwan mobile phone validation, re-ordered checkout fields and district and city dropdowns.
 
